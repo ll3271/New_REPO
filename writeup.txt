@@ -8,14 +8,18 @@ include sales associated with only one-family dwellings.
 
 The reasoning behind focusing on one-family dwellings was to enable us to answer the two following questions: Which variables 
 would be deemed most important to a single family moving into Brooklyn and which of those have the most impact on the sale prices?
-Using these questions, we formulated the hypothesis we intend on testing: Sale price, square footage and school district rankings
-are most important variables considered by young families when considering moving into a specific neighborhood in Brooklyn. Not
-only are these variables most important they all affect one another. 
 
 The filtered dataset included many details regarding every recorded one-family home sale in each neighborhood in Brooklyn such as
 sale price, square footage, year built, school district, and much more. This dataset was obviously the main data component of this
 project but in order to determine which school districts were more favorable than others, we used GreatSchools which enabled us to
 pinpoint which districts and neighborhoods had higher ranked public school (schools ranked 8 or above out of 10). 
+
+In summary, we were able to determine the key variables that we believe have meaningful impacts on the property sales. 
+Additionally, we developed scores for the top districts based on housing affordability in the respective neighborhoods and the 
+individual school rankings. With improvements, this dataset can be used for property sales predictive analyses possibly using
+linear regression and/or other methods.
+
+
 
 
 
